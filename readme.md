@@ -1,4 +1,4 @@
-## SNHU IT-145 Foundations in Application Development
+# SNHU IT-145 Foundations in Application Development
 
 Classwork/homework/projects/etc
 
