@@ -8,6 +8,7 @@ public class Dog {
     inherits from Pet class */
 
     // class properties
+    // TODO: something w/the DOG enum from pet
     private int dogSpaceNumber; // room number for dog customer
     private int dogWeight;      // weight of dog customer
     private boolean grooming;   // if pet parent ordered optional grooming (default false)
